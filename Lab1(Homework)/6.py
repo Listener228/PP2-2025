@@ -6,14 +6,14 @@ MYVAR = "John"
 myvar2 = "John"
 
 # Illegal variable names
-2myvar = "John"
-my-var = "John"
-my var = "John"
+# 2myvar = "John"
+# my-var = "John"
+# my var = "John"
 
 
-# Camel casd//]e
+# Camel case
 myVariableName = "John"
-
+# Pascal Case
 MyVariableName = "John"
-
+# Snake case 
 my_variable_name = "John"
